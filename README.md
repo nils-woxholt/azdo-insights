@@ -55,7 +55,6 @@ Options:
   --name TEXT                The display name in Azure DevOps
   --fetch INTEGER            How many rows to fetch
   --comment-trim INTEGER     Ignore comments shorter than this length
-  --include-replies BOOLEAN  Include my comments that are replies to other
-                             comments
+  --include-replies BOOLEAN  Include my comments that are replies to other comments
   --help                     Show this message and exit.
 ```
