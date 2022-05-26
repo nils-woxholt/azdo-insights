@@ -1,5 +1,3 @@
-from email.policy import default
-from io import TextIOWrapper
 import json
 import requests
 import os
