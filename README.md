@@ -1,4 +1,4 @@
-# A tool to gain insights into contibutions to a project in Azure Devops
+# Get insights into your contributions to a project in Azure Devops
 
 When looking back on a project, it's often interesting to reflect on your contributions to that project.
 
